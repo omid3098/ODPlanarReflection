@@ -88,6 +88,8 @@ Material:
     - _InvertNormalMap: 0
     - _Metalic: 0
     - _NormalStrenght: 1
+    - _NormalUVOffsetX: 0
+    - _NormalUVOffsetY: 0
     - _Occlution: 0.566
     - _Quality: 0
     - _Quality1: 5
@@ -103,6 +105,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _ColorTint: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _NormalUVOffset: {r: 0, g: 0, b: 0, a: 0}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Tiling: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
