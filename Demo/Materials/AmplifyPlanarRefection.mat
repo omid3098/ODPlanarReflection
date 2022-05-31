@@ -79,15 +79,15 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _BlurDirections: 4
+    - _BlurDirections: 6
     - _BlurQuality: 1
-    - _BlurRadiusMultiplier: 0.024
+    - _BlurRadiusMultiplier: 0.061
     - _BlurRadiusMultiplier1: 0.06
     - _Directions: 2
     - _Directions1: 9.9
     - _InvertNormalMap: 0
     - _Metalic: 0
-    - _NormalStrenght: 1
+    - _NormalStrenght: 0.57
     - _NormalUVOffsetX: 0
     - _NormalUVOffsetY: 0
     - _Occlution: 0.566
@@ -96,10 +96,10 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RefectionMaskPower: 1.42
-    - _ReflectionFresnel: 0.7
+    - _ReflectionFresnel: 0
     - _ReflectionStrenght: 1
     - _Roughness: 0
-    - _Smoothness: 0.802
+    - _Smoothness: 0.86
     - __dirty: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
